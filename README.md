@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Sankeerth Pradeep
 
-I’m an engineer from Kerala, India, currently pursuing my Master’s in Mechatronics & Robotics in Germany. I’m driven by curiosity, hands-on learning, and a passion for turning ideas into reliable, real-world solutions. My motto: grow constantly, build boldly, and help others rise.
+I’m an engineer from Kerala, India, currently pursuing my Master’s in Mechatronics & Robotics in Germany. I’m driven by curiosity, hands-on learning, and a passion for turning ideas into reliable, real-world solutions. 
 
 I enjoy building practical systems — from an ESP32-based XY pen plotter and functional robotic prototypes to publishing research that solves real challenges in agriculture and biomedical fields. With over 1.5 years of experience in a German-speaking environment (English C1 | German B1).
 
