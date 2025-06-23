@@ -22,6 +22,6 @@ I enjoy building practical systems — from an ESP32-based XY pen plotter and fu
 
 📫 **Contact:** sankeerthp46@gmail.com  
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/sankeerth-pradeep-a76441182/))
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/sankeerth-pradeep-a76441182/)
 
 Grow constantly. Build boldly. Help others rise.
