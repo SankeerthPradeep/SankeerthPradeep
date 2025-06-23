@@ -1,4 +1,4 @@
-![Mechatronics & Robotics Engineer]((https://github.com/SankeerthPradeep/SankeerthPradeep/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
+![Mechatronics & Robotics Engineer](https://github.com/SankeerthPradeep/SankeerthPradeep/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 
 ### Hi there 👋, I'm Sankeerth Pradeep
 
