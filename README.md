@@ -24,6 +24,6 @@ Grow constantly. Build boldly. Help others rise.
 
 📫 **Contact:** sankeerthp46@gmail.com  
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/sankeerth-pradeep-a76441182/)
+🔗 **LinkedIn:** [linkedin.com/in/sankeerth-pradeep-a76441182](https://www.linkedin.com/in/sankeerth-pradeep-a76441182)
 
 
